@@ -2,7 +2,8 @@
 
 ![Basic Installation](img/scheme.jpg)
 ![Basic Installation](img/RGBPinOut.png)
-![Basic Installation](img/RGBPinOut.png)
+
+![Basic Installation](img/arduinorgb.png)
 
 This is a proccessing program to graph data from a temperatura sensor,lm35 specificcly his state and the degrees are in celsius.
 
